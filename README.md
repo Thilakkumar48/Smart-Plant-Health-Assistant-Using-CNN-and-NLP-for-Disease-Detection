@@ -3,8 +3,6 @@
 
 ---
 
-# Smart Plant Health Assistant Using CNN and NLP for Disease Detection
-
 ## Overview
 
 The **Smart Plant Health Assistant** is a machine learning-based application designed to assist in the early detection and diagnosis of plant diseases. Leveraging Convolutional Neural Networks (CNN) for image classification and Natural Language Processing (NLP) for processing textual data, this tool provides accurate predictions of plant health issues. The application aims to help farmers and gardeners in identifying diseases and taking timely corrective measures.
